@@ -27,7 +27,7 @@ Please see https://packagecontrol.io/docs/troubleshooting for help
 3. 在文本开头添加以下代码：
 
 ```text
-"channels": ["https://github.com/xing592798030/Sofwares/blob/master/channel_v3.json"],
+"channels": ["https://github.com/xing592798030/Sublime-Text3/blob/master/channel_v3.json"],
 ```
 
 
